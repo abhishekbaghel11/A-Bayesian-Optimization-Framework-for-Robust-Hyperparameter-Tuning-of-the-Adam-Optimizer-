@@ -28,7 +28,7 @@ First, clone this project to your local machine and navigate into the directory:
 
 ```bash
 git clone https://github.com/abhishekbaghel11/A-Bayesian-Optimization-Framework-for-Robust-Hyperparameter-Tuning-of-the-Adam-Optimizer-.git
-cd bayesian_opt_project
+cd A-Bayesian-Optimization-Framework-for-Robust-Hyperparameter-Tuning-of-the-Adam-Optimizer-
 ```
 
 ### 2. Install Python Dependencies
